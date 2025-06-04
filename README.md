@@ -14,7 +14,7 @@
 - 作成される日報は、開始日からその月の末日までになります。
 
 ## 必要なファイル
-- make_daily_reports.zsh : 本体スクリプト
+- daily-report-tools.zsh : 本体スクリプト
 - template.txt : 日報テンプレートファイル（自由に編集可能）
 
 ## 出力例

@@ -7,7 +7,7 @@
 ## 使い方
 
 ```bash
-./make_daily_reports.zsh 2025-06-05
+./daily-report-tools 2025-06-05
 
 - 引数には開始日を YYYY-MM-DD 形式で渡します。
 - 引数を省略した場合、当日の日付が自動で使用されます。

@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 set -euo pipefail
 
 # 開始日を引数 or 今日に
